@@ -86,7 +86,7 @@ MLBB-Equipment-Bot/
 │     └── table_data.js # Functions to extracts the data from the different tables
 │   ├── slash_commands
 │     └── slash_command_creator.js # Creates slash commands for discord.js
-│  ├── package-lock.json # Dependencies for node
+│ ├── package-lock.json # Dependencies for node
 │ └── HOK_equip.js # Script to extract and download the HTML file
 │ 
 ```
