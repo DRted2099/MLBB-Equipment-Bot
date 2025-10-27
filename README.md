@@ -72,9 +72,10 @@ MLBB-Equipment-Bot/
 │
 ├── Python/ # Python web scraping scripts
 │ ├── scrape.py
-│ └── importToDB.py # Inserts scraped data into PostgreSQL
-│ └── table_for_stats.py # Creates .csv files for just the numeric values (Not used)
-│ └── ML_equip.HTML # HTML file of the static website where the data was scraped
+│ ├── importToDB.py # Inserts scraped data into PostgreSQL
+│ ├── table_for_stats.py # Creates .csv files for just the numeric values (Not used)
+│ ├── ML_equip.HTML # HTML file of the static website where the data was scraped
+│ └── requirements.txt # List of all the dependencies for python
 │
 ├── nodejs/ # Node.js bot source code
 │ ├── src
@@ -84,8 +85,9 @@ MLBB-Equipment-Bot/
 │     ├── cache.js # caches the data if the same table is called to reduce calls made to the db
 │     └── table_data.js # Functions to extracts the data from the different tables
 │   ├── slash_commands
-│     └── slash_command_creator.js # Creates slash commands for discord.js 
-│ ├── HOK_equip.js # Script to extract and download the HTML file
+│     └── slash_command_creator.js # Creates slash commands for discord.js
+│  ├── package-lock.json # Dependencies for node
+│ └── HOK_equip.js # Script to extract and download the HTML file
 │ 
 ```
 ## 📜 Note  
