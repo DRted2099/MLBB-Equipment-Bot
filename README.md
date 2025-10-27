@@ -67,6 +67,7 @@ The end result is a Discord bot that fetches and displays MLBB equipment informa
 
 ## 📂 Folder Structure  
 
+``` bash
 MLBB-Equipment-Bot/
 │
 ├── Python/ # Python web scraping scripts
@@ -86,7 +87,7 @@ MLBB-Equipment-Bot/
 │     └── slash_command_creator.js # Creates slash commands for discord.js 
 │ ├── HOK_equip.js # Script to extract and download the HTML file
 │ 
- 
+```
 ## 📜 Note  
 
 This is a **practice and portfolio project**, not affiliated with *Mobile Legends: Bang Bang* or Moonton.  
