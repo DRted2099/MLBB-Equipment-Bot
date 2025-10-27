@@ -90,8 +90,9 @@ MLBB-Equipment-Bot/
 ```
 ## 📜 Note  
 
-This is a **practice and portfolio project**, not affiliated with *Mobile Legends: Bang Bang* or Moonton.  
-It was built to demonstrate my ability to connect **data engineering, database design, and application logic** into one cohesive system.  
+- This is a **practice and portfolio project**, not affiliated with *Mobile Legends: Bang Bang* or Moonton.  It was built to demonstrate my ability to connect **data engineering, database design, and application logic** into one cohesive system.
+- Data was scraped from (#https://mlbbmeta.com/items/). Since its a static site the HTML was first downloaded and then scraped offline
+
 
 ---
 ## 👨‍💻 Author  
