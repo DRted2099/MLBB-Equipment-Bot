@@ -1,3 +1,9 @@
+## 🎥 Demo
+Here’s a quick look at the bot fetching equipment data in Discord:
+
+![MLBB Equipment Bot Demo](assets/demo.gif)
+
+
 # 🛡️ MLBB Equipment Bot  
 
 A **practice project** developed to showcase my skills in **Python**, **JavaScript**, and **Discord bot development**.  
