@@ -77,7 +77,7 @@ The end result is a Discord bot that fetches and displays MLBB equipment informa
 MLBB-Equipment-Bot/
 │
 ├── Python/ # Python web scraping scripts
-│ ├── scrape.py
+│ ├── scrape.py #Script to scrape the data
 │ ├── importToDB.py # Inserts scraped data into PostgreSQL
 │ ├── table_for_stats.py # Creates .csv files for just the numeric values (Not used)
 │ ├── ML_equip.HTML # HTML file of the static website where the data was scraped
